@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Human</h1>
+<h1 align="center">👋 Hey, I'm Hoomaan</h1>
 
 <p align="center">
   🚀 Passionate Linux Enthusiast | Beginner Full-Stack Dev | KVM & Hypervisor Explorer <br>
