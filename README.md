@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Hoomaan</h1>
 
 <p align="center">
-  🚀 Passionate Linux Enthusiast | Beginner Full-Stack Dev | KVM & Hypervisor Explorer <br>
+  🚀 Front-End Developer | Linux Enthusiast <br>
   🇮🇷 Based in Iran, building tools & learning every day 🌱
 </p>
 
@@ -9,36 +9,27 @@
 
 ### 🧠 About Me
 
-- 👨‍💻 Currently learning full-stack development (React, Nuxt, Node.js)
+- 👨‍💻 Front-End developer working with **Vue**, **Nuxt**, **React**, **Node.js**
 - 🐧 I use and customize Arch-based Linux daily
-- 🧪 Tinkering with virtualization using KVM, passthrough, and snapshots
-- 📦 Working on personal tools, admin panels, and automation scripts
+- 📦 Building admin panels, web apps, and automation scripts
 - 📝 Documenting what I learn to help others & myself
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nuxt_4-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/KVM-E60000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,js,ts,tailwind" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🌐 Live Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoomaanf&show_icons=true&theme=radical" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoomaanf&layout=compact&theme=radical" />
-</p>
+- 🛒 **Danaei Shop** — [danaei-shop.ir](https://danaei-shop.ir)
+- 🎨 **Personal Portfolio** — [hoomaanfelfeli.liara.run](https://hoomaanfelfeli.liara.run)
+- 💻 **GitHub Repos** — [github.com/hoomaanf](https://github.com/hoomaanf)
 
 ---
 
@@ -55,6 +46,4 @@
 
 ---
 
-> 🧠 _"I’m not a full-stack dev yet, but I’m learning fast and building every day."_  
-> 🔧 _Tweaking systems, testing limits, and breaking things to learn how they work._
-
+> *"Every program has (at least) two purposes: the one for which it was written, and another for which it wasn't."*
