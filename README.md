@@ -28,7 +28,6 @@
 ### 🌐 Live Projects
 
 - 🛒 **Danaei Shop** — [danaei-shop.ir](https://danaei-shop.ir)
-- 🎨 **Personal Portfolio** — [hoomaanfelfeli.liara.run](https://hoomaanfelfeli.liara.run)
 - 💻 **GitHub Repos** — [github.com/hoomaanf](https://github.com/hoomaanf)
 
 ---
